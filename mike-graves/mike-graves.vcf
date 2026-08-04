@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Graves;Mike;;;
+FN:Mike Graves
+ORG:Go Garage Doors
+TITLE:Technician
+TEL;TYPE=WORK,VOICE:727-512-6292
+EMAIL;TYPE=WORK:mgraves@gogaragedoors.com
+URL:https://gmiller-ggd.github.io/mike-graves/
+END:VCARD

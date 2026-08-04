@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Liang;Richard;;;
+FN:Richard Liang
+ORG:Go Garage Doors
+TITLE:Finance
+TEL;TYPE=WORK,VOICE:555-555-5555
+EMAIL;TYPE=WORK:rliang@gogaragedoors.com
+URL:https://gmiller-ggd.github.io/richardl-liang/
+END:VCARD
